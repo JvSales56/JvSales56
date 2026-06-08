@@ -1,6 +1,6 @@
 # 👨‍💻 João Victor Araújo Sales
 
-### Bem-vindo(a)
+### Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na **FATEC São Paulo**.
 
